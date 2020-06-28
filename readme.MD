@@ -1,6 +1,6 @@
 ### Final Examination
 
-Prepared by: Muhammad Amirul (17202062), Zaimie Azmin (17202336)<br>
+Prepared by: Muhammad Amirul (17202062)
 Instructor: Prof. Dr. Teh Ying Wah<br>
 Subject: WQD7005 Data Mining<br>
 
