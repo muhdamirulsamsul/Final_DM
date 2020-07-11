@@ -6,5 +6,5 @@ Subject: WQD7005 Data Mining<br>
 
 -------------------------------
 #### Links to source code for final exam:
-1. Question 1 and qeustion 2 -> <a target="_blank" href="https://youtu.be/vgq0HLwbgVo">here</a>
+1. Videos -> <a target="_blank" href="https://youtu.be/LZ5cErCRVuU">here</a>
 2. Jupyter Notebook -> <a target="_blank" href="https://github.com/muhdamirulsamsul/Final_DM/blob/master/Final%20Exam%20Data%20Mining.ipynb">here</a>
